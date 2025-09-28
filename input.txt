@@ -1,0 +1,7 @@
+with open("input.txt" , "w") as f:
+f.write("Python is a programming language.\n")
+f.write("It is used in data science.\n")
+f.write("It is used in Machine learning.\n")
+f.write("Web development also uses python.\n")
+f.write("Python has many libraries.\n")
+
